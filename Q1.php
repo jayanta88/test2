@@ -49,7 +49,7 @@ options.forEach(function(images){
   //configOption = Object.entries(configOption);
 
 });
-
+testing
+//console.log(configOption);
 console.log(configOption);
-
 </script>
