@@ -51,5 +51,6 @@ options.forEach(function(images){
 });
 testing
 //console.log(configOption);
-console.log(configOption);
+wefwefewf
+
 </script>
